@@ -13,6 +13,8 @@ matplotlib = "*"
 jupyterlab = "*"
 pandas-profiling = {extras = ["notebook"], version = "*"}
 scikit-learn = "*"
+scipy = "*"
+dtaidistance = "*"
 
 [requires]
 python_version = "3.8"
